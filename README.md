@@ -1,4 +1,4 @@
-<img align='right' src="https://github-readme-stats.vercel.app/api?username=Auxilus&show_icons=true&theme=radical" width="380">
+<img align='left' src="https://github-readme-stats.vercel.app/api?username=Auxilus&show_icons=true&theme=radical" width="380">
 
 
 <!--
